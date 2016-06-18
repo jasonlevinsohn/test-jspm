@@ -1,0 +1,7 @@
+##### Jarvis Dashboard Setup and Config
+[Tutoral Part 1](http://www.mario-brendel.com/angular2-setup/2016/01/28/Angular2_Jspm_Setup_Part1/)
+[Tutorial Part 2]{http://www.mario-brendel.com/angular2-setup/2016/01/29/Angular2_Jspm_Setup_Part2/}
+* Install JSPM `npm install -g jspm && `npm install jspm`
+* Add Lines of code from http://www.mario-brendel.com/angular2-setup/2016/01/28/Angular2_Jspm_Setup_Part1/ to the config file.
+* Create tsconfig.js from http://www.mario-brendel.com/angular2-setup/2016/01/28/Angular2_Jspm_Setup_Part1/
+* Install `ts` and `angular2` `jspm install ts angular2`
